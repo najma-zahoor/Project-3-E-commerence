@@ -1,5 +1,5 @@
 import iphone15 from "../assets/iphone15.jpg";
-import samsungS24 from "../assets/samsungs24.jpg";
+import samsungS24 from "../assets/samsungS24.jpg";
 import macbookPro from "../assets/macbookpro.jpg";
 import dellXps from "../assets/dellxps.jpg";
 import ipadAir from "../assets/ipadair.jpg";
