@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="bg-purple-900 text-white py-6 text-center border-t border-purple-700">
+    <footer className="bg-purple-900 text-white py-6 text-center bg-slate-900">
       <h1 className="text-xl font-bold">
         Mini Store
       </h1>
